@@ -24,15 +24,13 @@ organizations:
 bio: I am interested in studying echolocation as an active sensing tool.
 
 interests:
-- Digital signal processing
+- Functional morphology and anatomy
 - Echolocation/bioacoustics
-- Soundscape monitoring
+- Biomechanics
 
 education:
   courses:
-  - course: BS in Electrical Engineering
-    institution: University of Washington
-    year: 2024
+  - course: BS-MS (specialization in Biology), Indian Institute of Science Education and Research (IISER), Pune
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +42,11 @@ social:
   link: 'mailto:chhaya@uw.edu' # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/aditya-uw
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/aditya-uw
+  link: https://github.com/vaibhav-chhaya
 - icon: paw
-  icon_pack: fas
-  link: https://wildlabs.net/users/adkris1002
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=GkE9Ut0AAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
