@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Aditya Krishna
+title: Vaibhav Chhaya
 
 # Username (this should match the folder name)
 authors:
-- adkris
+- chhaya
 
 weight: 30
 
@@ -12,11 +12,12 @@ weight: 30
 superuser: false
 
 # Role/position
-role: PhD student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington
+- name: Department of Biology, University of Washington
+- name: Burke Museum of Natural History and Culture
 - name: Applied Physics Lab
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:adkris@uw.edu' # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:chhaya@uw.edu' # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/aditya-uw
@@ -54,7 +55,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: author/aditya-krishna/aditya_cv.pdf
+  link: author/chhaya/chhaya_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
@@ -65,10 +66,6 @@ user_groups:
 - Researchers
 ---
 
-I am a PhD student in the Electrical and Computer Engineering department at the University of Washington.
+I am a PhD candidate in the Santana Lab in the Department of Biology and at the Burke Museum of Natural History and Culture at the University of Washington. My research broadly examines the patterns and functional consequences of morphological diversification in vertebrates by integrating phylogenetic comparative methods, biophysical computational modeling, and field experiments. My PhD research focuses on the form and function of the bat rostrum (snout), investigating how its morphology balances the competing demands of echolocation, respiration, and olfaction.
 
-My interests are in utilizing ideas from statistics and signal processing to study how echolocating animals, such as bats and toothed whales, successfully perform complex tasks in dynamic environments. 
-
-During my undergraduate studies, Wu-Jung and I led a long-term passive acoustic monitoring (PAM) program focused on capturing echolocation calls emitted by bats using autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)). We used the PAM data to perform an investigation into bat activity metrics and duty-cycle subsampling schemes.
-
-Feel free to ask me any questions at my email on doing research!
+At the Echospace Lab, I am working as a research assistant using COMSOL Multiphysics on various projects to investigate acoustic interactions between sound and anatomical structures in dolphins.
